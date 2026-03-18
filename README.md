@@ -8,7 +8,7 @@ OpenCV-Python Tutorials
 [![Video](https://img.youtube.com/vi/Vx_TRyWkX-k/maxresdefault.jpg)](https://youtu.be/Vx_TRyWkX-k)
 
 ## Homework2  
-[![Video](https://img.youtube.com/2s-uMrv2lic/maxresdefault.jpg)](https://youtu.be/2s-uMrv2lic)
+[![Video](https://img.youtube.com/vi/2s-uMrv2lic/maxresdefault.jpg)](https://youtu.be/2s-uMrv2lic)
 
 ## Homework3
 <img width="552" height="246" alt="image" src="https://github.com/user-attachments/assets/e341926f-aa17-4723-bf98-88fad45ca20e" />
